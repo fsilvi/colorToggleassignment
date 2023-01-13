@@ -1,0 +1,55 @@
+body {
+  background-color: beige;
+  text-align: center;
+}
+
+#navmenu {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#colors {
+  position: relative;
+  top: 60px;
+  left: -50px;
+  width: 250px;
+  display: none;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#button0, .buttonClass0 {
+  margin: 3px;
+  padding: 10px;
+  background-color: blue;
+}
+
+#button1, .buttonClass1 {
+  margin: 3px;
+  padding: 10px;
+  background-color: rgb(183, 100, 183);
+}
+
+#button2, .buttonClass2 {
+  margin: 3px;
+  padding: 10px;
+  background-color: pink;
+}
+
+#button3, .buttonClass3 {
+  margin: 3px;
+  padding: 10px;
+  background-color: orange;
+}
+
+#button4, .buttonClass4 {
+  margin: 3px;
+  padding: 10px;
+  background-color: orangered;
+}/*# sourceMappingURL=style.css.map */
